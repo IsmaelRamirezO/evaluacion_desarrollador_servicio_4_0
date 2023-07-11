@@ -1,6 +1,6 @@
 <?php 
 	/**
-	 * Desde windows
+	 * Desde windows 1
 	 */
 	require_once('modelo/valida.php');
 	require_once('datos/objeto.php');
