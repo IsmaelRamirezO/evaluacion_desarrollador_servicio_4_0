@@ -46,7 +46,8 @@
 				$Valor = [];
 				//Cambios Dev1 mas cambios --- Otro mas
 				//Cambio directamente desde github
-				//Terer cambio directemente desde hithub
+				//Tercer cambio directemente desde hithub
+				//Cuarto Cambio.
 				$Validar->CreaRespuesta("0", "", $Valor);
 				
 				echo json_encode($Validar->ObtenerResponse(), JSON_PRETTY_PRINT  | JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_UNESCAPED_UNICODE);
