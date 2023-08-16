@@ -40,6 +40,7 @@
 
 		public function MetodoGet(){			
 			try {
+				//Cambio en Main
 				$ObjetoColor = new objeto();				
 				$Validar = new valida();
 				$Valor = [];
