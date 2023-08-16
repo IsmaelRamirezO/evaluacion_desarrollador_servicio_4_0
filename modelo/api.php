@@ -43,7 +43,7 @@
 				$ObjetoColor = new objeto();				
 				$Validar = new valida();
 				$Valor = [];
-				//Cambios Dev1
+				//Cambios Dev1 mas cambios
 				//Cambio directamente desde github
 				$Validar->CreaRespuesta("0", "", $Valor);
 				
