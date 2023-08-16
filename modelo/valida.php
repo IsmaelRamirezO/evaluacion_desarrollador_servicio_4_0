@@ -15,6 +15,7 @@
 			switch ($codigo) {
 				//Cambio 1
 				//cambio 2 
+				//cambio 3
 				case '0':
 					$this->response["codigo_respuesta"] = 0;
 					$this->response["mensaje"] = "Ok";
