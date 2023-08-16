@@ -4,6 +4,7 @@
 	 */
 	class valida
 	{
+		//cambio desde git
 		private $response = array();
 		private $rutatemp = "temp/";
 		public function __construct()
